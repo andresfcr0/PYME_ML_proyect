@@ -13,5 +13,3 @@ También su repositorio en linea se encuentra en:
 ```
 https://github.com/andycr00/ml_project
 ```
-
-Mil gracias.
