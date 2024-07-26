@@ -11,5 +11,5 @@ https://www.canva.com/design/DAFjXxFVv_s/5f2kUKDH0UF2-3LRtt9YBQ/edit
 También su repositorio en linea se encuentra en:
 
 ```
-https://github.com/andycr00/ml_project
+https://github.com/andresfcr0/PYME_ML_proyect/
 ```
